@@ -22,5 +22,6 @@ public class Listeners implements ITestListener{
 	{
 		System.out.println("Test skipped:- "+ result.getName());
 	}
+	
 
 }
