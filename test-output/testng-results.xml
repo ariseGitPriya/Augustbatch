@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T21:44:50 IST" name="Default suite" finished-at="2023-12-19T21:44:58 IST" duration-ms="7747">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T21:44:50 IST" name="Default test" finished-at="2023-12-19T21:44:58 IST" duration-ms="7747">
+      <class name="test.FaceBookLoginTest">
+        <test-method is-config="true" signature="LaunchBraw()[pri:0, instance:test.FaceBookLoginTest@26e356f0]" started-at="2023-12-19T21:44:50 IST" name="LaunchBraw" finished-at="2023-12-19T21:44:52 IST" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBraw -->
+        <test-method signature="LoginWithInvalidUserNameAndValidPassward()[pri:0, instance:test.FaceBookLoginTest@26e356f0]" started-at="2023-12-19T21:44:52 IST" name="LoginWithInvalidUserNameAndValidPassward" finished-at="2023-12-19T21:44:53 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidUserNameAndValidPassward -->
+        <test-method is-config="true" signature="closebrawser()[pri:0, instance:test.FaceBookLoginTest@26e356f0]" started-at="2023-12-19T21:44:53 IST" name="closebrawser" finished-at="2023-12-19T21:44:53 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrawser -->
+        <test-method is-config="true" signature="LaunchBraw()[pri:0, instance:test.FaceBookLoginTest@26e356f0]" started-at="2023-12-19T21:44:53 IST" name="LaunchBraw" finished-at="2023-12-19T21:44:55 IST" duration-ms="2022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBraw -->
+        <test-method signature="LoginWithValidUserNameAndInvalidPassward()[pri:0, instance:test.FaceBookLoginTest@26e356f0]" started-at="2023-12-19T21:44:55 IST" name="LoginWithValidUserNameAndInvalidPassward" finished-at="2023-12-19T21:44:55 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidUserNameAndInvalidPassward -->
+        <test-method is-config="true" signature="closebrawser()[pri:0, instance:test.FaceBookLoginTest@26e356f0]" started-at="2023-12-19T21:44:55 IST" name="closebrawser" finished-at="2023-12-19T21:44:55 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrawser -->
+        <test-method is-config="true" signature="LaunchBraw()[pri:0, instance:test.FaceBookLoginTest@26e356f0]" started-at="2023-12-19T21:44:55 IST" name="LaunchBraw" finished-at="2023-12-19T21:44:57 IST" duration-ms="1896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBraw -->
+        <test-method signature="LoginWithValidUserNameAndPassward()[pri:0, instance:test.FaceBookLoginTest@26e356f0]" started-at="2023-12-19T21:44:57 IST" name="LoginWithValidUserNameAndPassward" finished-at="2023-12-19T21:44:57 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidUserNameAndPassward -->
+        <test-method is-config="true" signature="closebrawser()[pri:0, instance:test.FaceBookLoginTest@26e356f0]" started-at="2023-12-19T21:44:57 IST" name="closebrawser" finished-at="2023-12-19T21:44:58 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrawser -->
+      </class> <!-- test.FaceBookLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
